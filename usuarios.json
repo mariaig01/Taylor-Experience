@@ -1,0 +1,37 @@
+{
+    "Maria": {
+        "contrase\u00f1a": "hola",
+        "favoritos": [
+            {
+                "track_name": "my tears ricochet",
+                "track_url": "https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC"
+            },
+            {
+                "track_name": "style",
+                "track_url": "https://open.spotify.com/track/3Vpk1hfMAQme8VJ0SNRSkd"
+            },
+            {
+                "track_name": "style",
+                "track_url": "https://open.spotify.com/track/3Vpk1hfMAQme8VJ0SNRSkd"
+            },
+            {
+                "track_name": "lover",
+                "track_url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+            }
+        ],
+        "no_favoritos": [
+            {
+                "track_name": "Cornelia Street",
+                "track_url": "https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a"
+            },
+            {
+                "track_name": "Holy Ground (Taylor's Version)",
+                "track_url": null
+            },
+            {
+                "track_name": "Forever & Always (Taylor\u2019s Version)",
+                "track_url": "https://open.spotify.com/track/1msEuwSBneBKpVCZQcFTsU"
+            }
+        ]
+    }
+}
